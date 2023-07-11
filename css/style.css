@@ -1,0 +1,11 @@
+.bgbody
+{
+    background-repeat: no-repeat;
+    background-image: url('/img/bodybg.jpg');
+}
+.form-bgcolor
+{
+
+    background-color: transparent;
+   
+}
